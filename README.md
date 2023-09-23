@@ -3,7 +3,7 @@ bspwm parrot focused on pentesting
 ### Welcome!
 
 This repo hosts a collection of dotfiles for various Linux applications.
-The functionality of this environment is aimed at pentesting, and has been tested both in Arch and Parrot (currently the version I'm maintaining) as for the aesthetic section, is designed for those people who like dark and minimalist themes, although I then added a touch of "idols of kpop" this is completely optional and you are free to change it.
+The functionality of this environment is aimed at pentesting, and has been tested both in Arch and Parrot (currently the version I'm maintaining) as for the aesthetic section, is designed for those people who like dark and minimalist themes.
 
 
 -----
@@ -12,10 +12,13 @@ The functionality of this environment is aimed at pentesting, and has been teste
 ### Screenshots
 
 #### Default look 
+![Screenshot_12](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/c9d82452-b1c2-4f28-8bd4-b676c42b7c15)
 
 #### BSPWM, Thunar , Rofi
+![Screenshot_13](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/b274eab6-c185-4d38-a94d-a340dcb70177)
 
 #### Utilities for HTB at Polybar 
+![Screenshot_14](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/30e83d2e-b7d3-46a4-b412-0f279baf794a)
 
 
 -----
