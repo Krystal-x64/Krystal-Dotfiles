@@ -16,7 +16,8 @@ The functionality of this environment is aimed at pentesting, and has been teste
 ![Screenshot_12](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/c9d82452-b1c2-4f28-8bd4-b676c42b7c15)
 
 #### Default (Vertical)
-![imagen](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/0ae90295-d243-4b02-88c4-36d01e3bcbdc)
+
+![Screenshot_17](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/c2a6efec-1730-4821-b6d9-6c388c29ffaa)
 
 
 #### BSPWM, Thunar , Rofi
