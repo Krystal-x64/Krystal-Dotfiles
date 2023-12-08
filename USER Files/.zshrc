@@ -134,11 +134,12 @@ function rmk(){
 (( ! ${+functions[p10k-instant-prompt-finalize]} )) || p10k-instant-prompt-finalize
 #source ~/powerlevel10k/powerlevel10k.zsh-theme
 export PATH=$PATH:/home/krystal/.spicetify
-source /home/krystal/Descargas/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh-sudo-plugin/sudo.plugin.zsh
 # Created by `pipx` on 2023-04-06 14:08:44
 export PATH="$PATH:/home/krystal/.local/bin"
 
 # Created by `pipx` on 2023-04-06 15:06:08
 export PATH="$PATH:/root/.local/bin"
+
