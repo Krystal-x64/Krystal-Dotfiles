@@ -2,7 +2,7 @@
 
 /home/krystal/.config/polybar/launch.sh
 #feh --bg-fill /home/krystal/Descargas/blackmamba-dotfiles/assets/karina.jpg &
-feh --bg-fill /home/krystal/Imágenes/fondo.jpg &
+feh --bg-fill /home/krystal/Downloads/Krystal-Dotfiles/Sin_titulo-4.jpg &
 pgrep -x sxhkd > /dev/null || sxhkd &
 pgrep -x picom > /dev/null || picom --config /home/krystal/.config/picom/picom.conf &
 
@@ -21,3 +21,4 @@ bspc rule -a Chromium desktop='^2'
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
+vmware-user-suid-wrapper &
