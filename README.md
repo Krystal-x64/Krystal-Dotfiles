@@ -127,11 +127,11 @@ https://github.com/Hackplayers/evil-winrm
 -----
 ### Copy and paste between HOST and GUEST (Kali Linux) 
 
-apt update
-apt full-upgrade
-apt -y autoremove
-apt install open-vm-tools-desktop fuse3
-reboot
+`apt update`
+`apt full-upgrade`
+`apt -y autoremove`
+`apt install open-vm-tools-desktop fuse3`
+`reboot`
 https://www.youtube.com/watch?v=LRu6EqwSxiI&ab_channel=IntoGuide
 
 -----
