@@ -125,7 +125,16 @@ https://github.com/Hackplayers/evil-winrm
 **<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>** = New tab
 
 -----
+### Copy and paste between HOST and GUEST (Kali Linux) 
 
+apt update
+apt full-upgrade
+apt -y autoremove
+apt install open-vm-tools-desktop fuse3
+reboot
+https://www.youtube.com/watch?v=LRu6EqwSxiI&ab_channel=IntoGuide
+
+-----
 
 ### Contact me
 Any doubt you can send me a message (English or Spanish) my idea is not to offer a detailed technical support if you don't know how to install, you can use this [readme.md](http://readme.md/) youtube and google-sempai first but in case that some file is corrupted, I have made a mistake, or I have not clarified something that is important you can communicate it to me.
