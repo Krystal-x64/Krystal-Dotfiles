@@ -4,7 +4,7 @@ bspwm parrot/kali focused on pentesting
 
 
 This repo hosts a collection of dotfiles for various Linux applications.
-The functionality of this environment is aimed at pentesting, and has been tested both in Arch and Parrot (currently the version I'm maintaining) as for the aesthetic section, is designed for those people who like dark and minimalist themes.
+The functionality of this environment is aimed at pentesting, and has been tested both in Arch, Parrot and Kali Linux (currently the version I'm maintaining) as for the aesthetic section, is designed for those people who like dark and minimalist themes.
 
 
 -----
