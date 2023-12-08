@@ -1,5 +1,5 @@
 # Krystal-Dotfiles
-bspwm parrot focused on pentesting
+bspwm parrot/kali focused on pentesting
 ### Welcome!
 
 
@@ -14,11 +14,6 @@ The functionality of this environment is aimed at pentesting, and has been teste
 
 #### Default look 
 ![Screenshot_12](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/c9d82452-b1c2-4f28-8bd4-b676c42b7c15)
-
-#### Default (Vertical)
-
-![Screenshot_17](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/c2a6efec-1730-4821-b6d9-6c388c29ffaa)
-
 
 #### BSPWM, Thunar , Rofi
 ![Screenshot_13](https://github.com/Krystal-x64/Krystal-Dotfiles/assets/84544304/b274eab6-c185-4d38-a94d-a340dcb70177)
