@@ -122,6 +122,19 @@ https://github.com/Hackplayers/evil-winrm
 
 **<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>** = New tab
 
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>= Rename the tab
+
+**<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>** = Split Terminal
+
+**<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>** = Resize (the split)
+
+**<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Up</kbd>/<kbd>Down</kbd><kbd>Left</kbd>/<kbd>Right</kbd>** = Move (Split)
+
+**<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Z</kbd>** = Focus on one windows(split)
+
+**<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>** = Close the terminal
+
+
 -----
 ### Copy and paste between HOST and GUEST (Kali Linux) 
 
